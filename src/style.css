@@ -1,0 +1,45 @@
+.bg{
+    background-image: url('./bklog.jpg');
+
+    /* Full height */
+    height: 100vh; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form-container{
+    margin-top: 100px;
+    padding : 40px 60px;
+    -webkit-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+}
+
+.form-container1{
+    margin-top: 30px;
+    padding : 40px 60px;
+    -webkit-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: -1px 2px 15px 0px rgba(0,0,0,0.75);
+}
+
+.r-image{
+    border-radius: 50%;
+}
+
+.card-cont{
+    margin-left: 500px;
+    width : 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: black solid;
+    padding: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgb(233, 199, 127) ;
+;}
